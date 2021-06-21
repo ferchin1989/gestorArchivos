@@ -1,0 +1,21 @@
+                            Arbol de Carpetas:
+
+                            
+
+1-) bd :carpeta que contiene los snipets o query de la base de datos listos para ejecutar
+
+2-) clases :contiene todas las clases de cada modulo, con sus respectivos metodos de crud
+
+3-) css :contiene los estilos de css
+
+4-) img :contiene todas las imagenes del proyecto
+
+5-) archivos :contiene las imagenes de los productos agregados
+
+6-) js : contiene todos los scripts para cada modulo para ejecutar las funciones de crud
+
+7-) librerias :cotendra las librerias para la creacion de pdf jquery, alertify, bootstrap y select 2
+
+8-) procesos :contiene archivos intermedios entre las clases y las vistas, estos mandaran informacion entre una y otra cosa
+
+9-) vistas: contendra todas las vistas de cada uno de los modulos
